@@ -14,4 +14,4 @@
 
 - [Sujet 5 : Analyse textuelle des commentaires clients de restaurants](https://github.com/InseeFrLab/funathon2023_sujet5)
 
-- [Sujet 6 : A la recherche de l'alimentation perdue] (https://github.com/InseeFrLab/funathon2023_sujet6)
+- [Sujet 6 : A la recherche de l'alimentation perdue](https://github.com/InseeFrLab/funathon2023_sujet6)
