@@ -34,4 +34,4 @@ https://matrix.to/#/#funathon2023:agent.finances.tchap.gouv.fr
 
 [Annonce Funathon 2023](https://github.com/InseeFrLab/funathon2023/blob/48419dc3b7dad1340594ca9aa4dc8f350c819fc9/Annonce_Funathon_2023.pdf)
 
-[Formulaire d'inscription Funathon](https://github.com/InseeFrLab/funathon2023/blob/48419dc3b7dad1340594ca9aa4dc8f350c819fc9/Formulaire%20d'inscription_%20Funathon2023.odt)
+[Formulaire d'inscription Funathon](https://github.com/InseeFrLab/funathon2023/blob/b6931ebe21091cd044ad7316ce2cab3fae398927/Formulaire%20d'inscription_%20Funathon2023.pdf)
