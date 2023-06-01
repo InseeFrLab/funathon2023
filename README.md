@@ -12,7 +12,9 @@ Pendant deux jours, les participants vont pouvoir explorer et analyser des donn�
 
 
 ## Sujets
-Pour le millésime 2023, la thématique est proposée par le service statistique du ministère de l’Agriculture : « du champ à l’assiette ! ».
+Pour le millésime 2023, la thématique est proposée par le service statistique du ministère de l’Agriculture :
+
+## Du champ à l’assiette !
 
 - [Sujet 1 : 150 ans d'agriculture en France](https://github.com/InseeFrLab/funathon2023_sujet1)
 
