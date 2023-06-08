@@ -9,5 +9,11 @@
       "/subjects/subject5.html",
       "/subjects/subject6.html"
     ]
+  },
+  {
+    "listing": "/gallery.html",
+    "items": [
+      "/gallery/subject4.html"
+    ]
   }
 ]
