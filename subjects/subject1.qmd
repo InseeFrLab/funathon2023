@@ -1,0 +1,10 @@
+---
+title: "150 ans d'agriculture en France"
+image: https://histoire-image.org/sites/default/files/2021-11/jab1_bonheur_001f.jpg
+number: 1
+categories:
+    - Observable
+    - Dataviz
+---
+
+Une initiation à la dataviz avec observable sur séries longues

@@ -1,0 +1,11 @@
+---
+title: "Explorer la géographie des cultures agricoles françaises"
+image: subject2.png
+number: 2
+categories:
+    - R
+    - PostGIS
+    - Cartographie
+---
+
+Une exploration de la géographie des cultures agricoles

@@ -1,0 +1,12 @@
+---
+title: "Mon Yuka avec Python"
+image: https://raw.githubusercontent.com/InseeFrLab/funathon2023_sujet4/main/img/demo_yuka.png
+number: 4
+categories:
+    - Python
+    - Streamlit
+    - Dataviz
+---
+
+
+Un parcours guidé pour créer une application de lecture de code barre avec `Python` à la manière de `Yuka`

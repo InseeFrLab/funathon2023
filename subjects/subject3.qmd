@@ -1,0 +1,12 @@
+---
+title: "Explorer les habitudes alimentaires de nos compatriotes"
+image: subject3.png
+number: 3
+categories:
+    - R
+    - Python
+    - Machine Learning
+    - Clustering
+---
+
+Une initiation à l'analyse exploratoire de données et au clustering

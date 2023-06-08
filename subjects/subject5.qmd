@@ -1,0 +1,12 @@
+---
+title: "Analyse textuelle des commentaires clients de restaurants "
+image: https://images.radio-canada.ca/w_635,h_357/v1/ici-tele/16x9/ratatouille-de-brad-bird-3.jpg
+number: 5
+categories:
+    - Python
+    - Analyse de sentiment
+    - NLP
+---
+
+
+Analyse de sentiments dans des commentaires clients à partir de données scrappées

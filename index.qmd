@@ -1,0 +1,12 @@
+---
+title: "Funathon 2023"
+subtitle: "Recensement des sujets"
+listing:
+    contents: subjects
+    type: grid
+    sort: "number"
+    categories: true
+---
+
+
+
