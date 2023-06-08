@@ -1,9 +1,11 @@
 # Funathon 2023
 
 Dépôt centralisant les ressources techniques mises à disposition par les équipes organisatrices
-du __Funathon__ (_hackathon_ non compétitif) organisé en 2023 par les équipes
+du __Funathon__ (_hackathon_ non compétitif), 3ème édition.
+
+Cet événement est organisé  par les équipes
 innovation de l'Insee et le service statistique du ministère de l'agriculture
-sur le thème __"Du champ à l'assiette"__ (voir plus bas les sujets proposés).
+sur le thème __"Du champ à l'assiette"__ (voir 👇 les sujets proposés).
 
 Site web compagnon de l'événement: https://inseefrlab.github.io/funathon2023/
 
@@ -14,7 +16,7 @@ Pendant deux jours, les participants vont pouvoir explorer et analyser des donn�
 
 ## Dates clés 📅
 
-- Evènement : les 27 et 28 juin 2023
+- Evénement : les 27 et 28 juin 2023
 - Présentation des sujets et de l'environnement technique : 16 juin de 10h à 12h
 - Date limite des inscriptions : 12 juin 
 
