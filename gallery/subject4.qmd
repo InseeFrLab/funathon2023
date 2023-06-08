@@ -1,0 +1,12 @@
+---
+title: "Exemple de projet"
+image: https://raw.githubusercontent.com/InseeFrLab/funathon2023_sujet4/main/img/demo_yuka.png
+number: 4
+categories:
+    - Python
+    - Streamlit
+    - Dataviz
+---
+
+De vrais exemples faits par les participants à venir
+

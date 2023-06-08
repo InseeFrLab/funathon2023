@@ -1,0 +1,11 @@
+---
+title: "Galerie d'exemples"
+subtitle: "Les projets des participants"
+listing:
+    contents: gallery
+    type: grid
+    sort: "number"
+    categories: true
+---
+
+Une galerie d'exemples de projets faits par les participants de cette édition

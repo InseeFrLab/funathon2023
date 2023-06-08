@@ -8,5 +8,7 @@ listing:
     categories: true
 ---
 
+Cette page recense les ressources préparées par les organisateurs sur les 6 sujets proposés
+lors de l'événement 2023.
 
-
+Pour découvrir les projets 

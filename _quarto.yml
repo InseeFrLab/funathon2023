@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: gallery.qmd
+        text: Galerie
       - about.qmd
 
 format:
