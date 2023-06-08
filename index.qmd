@@ -11,4 +11,4 @@ listing:
 Cette page recense les ressources préparées par les organisateurs sur les __6 sujets proposés__
 lors de l'événement 2023.
 
-Pour découvrir les projets de certains participants, c'est sur [la gallerie](./gallery.qmd)
+Pour découvrir les projets de certains participants, c'est sur [la galerie](./gallery.qmd)
