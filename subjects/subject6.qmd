@@ -1,5 +1,5 @@
 ---
-title: "Analyse textuelle des commentaires clients de restaurants "
+title: "A la recherche de l'alimentation perdue"
 image: https://raw.githubusercontent.com/InseeFrLab/funathon2023_sujet6/main/images/Marcel_Proust.jpg
 number: 6
 categories:
