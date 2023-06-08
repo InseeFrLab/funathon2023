@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Funathon 2023",
+    "section": "",
+    "text": "150 ans d’agriculture en France\n\n\n\nObservable\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExplorer la géographie des cultures agricoles françaises\n\n\n\nR\n\n\nPostGIS\n\n\nCartographie\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExplorer les habitudes alimentaires de nos compatriotes\n\n\n\nR\n\n\nPython\n\n\nMachine Learning\n\n\nClustering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMon Yuka avec Python\n\n\n\nPython\n\n\nStreamlit\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse textuelle des commentaires clients de restaurants\n\n\n\nPython\n\n\nAnalyse de sentiment\n\n\nNLP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse textuelle des commentaires clients de restaurants\n\n\n\nPython\n\n\nNLP\n\n\nSpaCy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Ce site web est un compagnon du hackathon non compétitif proposé par l’Insee et le service statistique du ministère de l’agriculture sur le thème “Du champ à l’assiette”"
+  },
+  {
+    "objectID": "about.html#ressources-utiles",
+    "href": "about.html#ressources-utiles",
+    "title": "About",
+    "section": "Ressources utiles",
+    "text": "Ressources utiles\nListe des sujets:\n\nSujet 1 : 150 ans d’agriculture en France Une initiation à la dataviz avec observable sur séries longues\nSujet 2 : Explorer la géographie des cultures agricoles françaises Une exploration de la géographie des cultures agricoles\nSujet 3 : Explorer les habitudes alimentaires de nos compatriotes Une initiation à l’analyse exploratoire de données et au clustering\nSujet 4 : Produire une application qui scanne le code barre d’un produit et donne sa composition nutritionnelle Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka\nSujet 5 : Analyse textuelle des commentaires clients de restaurants Analyse de sentiments dans des commentaires clients à partir de données scrappées\nSujet 6 : A la recherche de l’alimentation perdue Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust\n\nReplay de la présentation du 16 juin (présentation du principe de l’événement, présentation du SSP Cloud et de l’usage de Git): INCOMING\nDépôt Github centralisant le contenu de ce site web: https://github.com/InseeFrLab/funathon2023"
+  },
+  {
+    "objectID": "subjects/subject4.html",
+    "href": "subjects/subject4.html",
+    "title": "Mon Yuka avec Python",
+    "section": "",
+    "text": "Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka"
+  },
+  {
+    "objectID": "subjects/subject1.html",
+    "href": "subjects/subject1.html",
+    "title": "150 ans d’agriculture en France",
+    "section": "",
+    "text": "Une initiation à la dataviz avec observable sur séries longues"
+  },
+  {
+    "objectID": "subjects/subject2.html",
+    "href": "subjects/subject2.html",
+    "title": "Explorer la géographie des cultures agricoles françaises",
+    "section": "",
+    "text": "Une exploration de la géographie des cultures agricoles"
+  },
+  {
+    "objectID": "subjects/subject5.html",
+    "href": "subjects/subject5.html",
+    "title": "Analyse textuelle des commentaires clients de restaurants",
+    "section": "",
+    "text": "Analyse de sentiments dans des commentaires clients à partir de données scrappées"
+  },
+  {
+    "objectID": "subjects/subject6.html",
+    "href": "subjects/subject6.html",
+    "title": "Analyse textuelle des commentaires clients de restaurants",
+    "section": "",
+    "text": "Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust"
+  },
+  {
+    "objectID": "subjects/subject3.html",
+    "href": "subjects/subject3.html",
+    "title": "Explorer les habitudes alimentaires de nos compatriotes",
+    "section": "",
+    "text": "Une initiation à l’analyse exploratoire de données et au clustering"
+  }
+]

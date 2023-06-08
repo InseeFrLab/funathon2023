@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/subjects/subject1.html",
+      "/subjects/subject2.html",
+      "/subjects/subject3.html",
+      "/subjects/subject4.html",
+      "/subjects/subject5.html",
+      "/subjects/subject6.html"
+    ]
+  }
+]
