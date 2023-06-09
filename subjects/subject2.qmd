@@ -6,6 +6,7 @@ categories:
     - R
     - PostGIS
     - Cartographie
+github: https://github.com/InseeFrLab/funathon2023_sujet2
 ---
 
 Une exploration de la géographie des cultures agricoles

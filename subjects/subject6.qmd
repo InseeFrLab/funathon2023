@@ -6,6 +6,7 @@ categories:
     - Python
     - NLP
     - SpaCy
+github: https://github.com/InseeFrLab/funathon2023_sujet6
 ---
 
 

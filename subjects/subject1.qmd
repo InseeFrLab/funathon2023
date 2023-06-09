@@ -5,6 +5,7 @@ number: 1
 categories:
     - Observable
     - Dataviz
+github: https://github.com/InseeFrLab/funathon2023_sujet1
 ---
 
 Une initiation à la dataviz avec observable sur séries longues

@@ -7,6 +7,7 @@ categories:
     - Python
     - Machine Learning
     - Clustering
+github: https://github.com/InseeFrLab/funathon2023_sujet3
 ---
 
 Une initiation à l'analyse exploratoire de données et au clustering

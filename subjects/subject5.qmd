@@ -6,6 +6,7 @@ categories:
     - Python
     - Analyse de sentiment
     - NLP
+github: https://github.com/InseeFrLab/funathon2023_sujet5
 ---
 
 
