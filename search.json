@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Funathon 2023",
     "section": "",
-    "text": "Cette page recense les ressources préparées par les organisateurs sur les 6 sujets proposés lors de l’événement 2023.\nPour découvrir les projets de certains participants, c’est sur la galerie\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n150 ans d’agriculture en France\n\n\n\nObservable\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExplorer la géographie des cultures agricoles françaises\n\n\n\nR\n\n\nPostGIS\n\n\nCartographie\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExplorer les habitudes alimentaires de nos compatriotes\n\n\n\nR\n\n\nPython\n\n\nMachine Learning\n\n\nClustering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMon Yuka avec Python\n\n\n\nPython\n\n\nStreamlit\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse textuelle des commentaires clients de restaurants\n\n\n\nPython\n\n\nAnalyse de sentiment\n\n\nNLP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA la recherche de l’alimentation perdue\n\n\n\nPython\n\n\nNLP\n\n\nSpaCy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Cette page recense les ressources préparées par les organisateurs sur les 6 sujets proposés lors de l’événement 2023.\nPour découvrir les projets de certains participants, c’est sur la galerie\n\n\n\n\n\n\n\n\n\n\n150 ans d’agriculture en France\n\n\n\n\n\ngithub\n\n\nhttps://github.com/InseeFrLab/funathon2023_sujet1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExplorer la géographie des cultures agricoles françaises\n\n\n\n\n\ngithub\n\n\nhttps://github.com/InseeFrLab/funathon2023_sujet2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExplorer les habitudes alimentaires de nos compatriotes\n\n\n\n\n\ngithub\n\n\nhttps://github.com/InseeFrLab/funathon2023_sujet3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMon Yuka avec Python\n\n\n\n\n\ngithub\n\n\nhttps://github.com/InseeFrLab/funathon2023_sujet4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse textuelle des commentaires clients de restaurants\n\n\n\n\n\ngithub\n\n\nhttps://github.com/InseeFrLab/funathon2023_sujet5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA la recherche de l’alimentation perdue\n\n\n\n\n\ngithub\n\n\nhttps://github.com/InseeFrLab/funathon2023_sujet6\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "gallery/subject4.html",
+    "href": "gallery/subject4.html",
+    "title": "Exemple de projet",
+    "section": "",
+    "text": "De vrais exemples faits par les participants à venir"
   },
   {
     "objectID": "about.html",
@@ -21,18 +28,11 @@
     "text": "Ressources utiles\nListe des sujets:\n\nSujet 1 : 150 ans d’agriculture en France Une initiation à la dataviz avec observable sur séries longues\nSujet 2 : Explorer la géographie des cultures agricoles françaises Une exploration de la géographie des cultures agricoles\nSujet 3 : Explorer les habitudes alimentaires de nos compatriotes Une initiation à l’analyse exploratoire de données et au clustering\nSujet 4 : Produire une application qui scanne le code barre d’un produit et donne sa composition nutritionnelle Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka\nSujet 5 : Analyse textuelle des commentaires clients de restaurants Analyse de sentiments dans des commentaires clients à partir de données scrappées\nSujet 6 : A la recherche de l’alimentation perdue Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust\n\nReplay de la présentation du 16 juin (présentation du principe de l’événement, présentation du SSP Cloud et de l’usage de Git): INCOMING\nDépôt Github centralisant le contenu de ce site web: https://github.com/InseeFrLab/funathon2023"
   },
   {
-    "objectID": "gallery/subject4.html",
-    "href": "gallery/subject4.html",
-    "title": "Exemple de projet",
+    "objectID": "subjects/subject3.html",
+    "href": "subjects/subject3.html",
+    "title": "Explorer les habitudes alimentaires de nos compatriotes",
     "section": "",
-    "text": "De vrais exemples faits par les participants à venir"
-  },
-  {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Galerie d’exemples",
-    "section": "",
-    "text": "Une galerie d’exemples de projets faits par les participants de cette édition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExemple de projet\n\n\n\nPython\n\n\nStreamlit\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Une initiation à l’analyse exploratoire de données et au clustering"
   },
   {
     "objectID": "subjects/subject4.html",
@@ -42,11 +42,11 @@
     "text": "Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka"
   },
   {
-    "objectID": "subjects/subject1.html",
-    "href": "subjects/subject1.html",
-    "title": "150 ans d’agriculture en France",
+    "objectID": "subjects/subject6.html",
+    "href": "subjects/subject6.html",
+    "title": "A la recherche de l’alimentation perdue",
     "section": "",
-    "text": "Une initiation à la dataviz avec observable sur séries longues"
+    "text": "Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust"
   },
   {
     "objectID": "subjects/subject2.html",
@@ -56,6 +56,13 @@
     "text": "Une exploration de la géographie des cultures agricoles"
   },
   {
+    "objectID": "subjects/subject1.html",
+    "href": "subjects/subject1.html",
+    "title": "150 ans d’agriculture en France",
+    "section": "",
+    "text": "Une initiation à la dataviz avec observable sur séries longues"
+  },
+  {
     "objectID": "subjects/subject5.html",
     "href": "subjects/subject5.html",
     "title": "Analyse textuelle des commentaires clients de restaurants",
@@ -63,17 +70,10 @@
     "text": "Analyse de sentiments dans des commentaires clients à partir de données scrappées"
   },
   {
-    "objectID": "subjects/subject6.html",
-    "href": "subjects/subject6.html",
-    "title": "A la recherche de l’alimentation perdue",
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Galerie d’exemples",
     "section": "",
-    "text": "Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust"
-  },
-  {
-    "objectID": "subjects/subject3.html",
-    "href": "subjects/subject3.html",
-    "title": "Explorer les habitudes alimentaires de nos compatriotes",
-    "section": "",
-    "text": "Une initiation à l’analyse exploratoire de données et au clustering"
+    "text": "Une galerie d’exemples de projets faits par les participants de cette édition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExemple de projet\n\n\n\nPython\n\n\nStreamlit\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -64,20 +64,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-sample-listings .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-github',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-sample-listings'] = new List('listing-sample-listings', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -163,13 +163,9 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Cette page recense les ressources préparées par les organisateurs sur les <strong>6 sujets proposés</strong> lors de l’événement 2023.</p>
 <p>Pour découvrir les projets de certains participants, c’est sur <a href="./gallery.html">la galerie</a></p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div id="listing-sample-listings" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Observable,Dataviz" data-listing-file-modified-sort="1686241803219" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="0" data-categories="Observable,Dataviz" data-listing-file-modified-sort="1686330000981" data-listing-reading-time-sort="1">
 <a href="./subjects/subject1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -179,27 +175,23 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 150 ans d’agriculture en France
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Observable'); return false;">
-Observable
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Dataviz'); return false;">
-Dataviz
-</div>
-</div>
-<div class="card-text listing-description">
-Une initiation à la dataviz avec observable sur séries longues
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+github
+</td>
+<td class="github">
+https://github.com/InseeFrLab/funathon2023_sujet1
+</td>
+</tr>
+
+</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="R,PostGIS,Cartographie" data-listing-file-modified-sort="1686241803219" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="1" data-categories="R,PostGIS,Cartographie" data-listing-file-modified-sort="1686330000981" data-listing-reading-time-sort="1">
 <a href="./subjects/subject2.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -209,30 +201,23 @@ Une initiation à la dataviz avec observable sur séries longues
 <h5 class="no-anchor card-title listing-title">
 Explorer la géographie des cultures agricoles françaises
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('PostGIS'); return false;">
-PostGIS
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Cartographie'); return false;">
-Cartographie
-</div>
-</div>
-<div class="card-text listing-description">
-Une exploration de la géographie des cultures agricoles
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+github
+</td>
+<td class="github">
+https://github.com/InseeFrLab/funathon2023_sujet2
+</td>
+</tr>
+
+</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="R,Python,Machine Learning,Clustering" data-listing-file-modified-sort="1686241803223" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="2" data-categories="R,Python,Machine Learning,Clustering" data-listing-file-modified-sort="1686330000985" data-listing-reading-time-sort="1">
 <a href="./subjects/subject3.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -242,33 +227,23 @@ Une exploration de la géographie des cultures agricoles
 <h5 class="no-anchor card-title listing-title">
 Explorer les habitudes alimentaires de nos compatriotes
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
-Python
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Machine Learning'); return false;">
-Machine Learning
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Clustering'); return false;">
-Clustering
-</div>
-</div>
-<div class="card-text listing-description">
-Une initiation à l’analyse exploratoire de données et au clustering
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+github
+</td>
+<td class="github">
+https://github.com/InseeFrLab/funathon2023_sujet3
+</td>
+</tr>
+
+</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Python,Streamlit,Dataviz" data-listing-file-modified-sort="1686241803223" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="3" data-categories="Python,Streamlit,Dataviz" data-listing-file-modified-sort="1686330000985" data-listing-reading-time-sort="1">
 <a href="./subjects/subject4.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -278,30 +253,23 @@ Une initiation à l’analyse exploratoire de données et au clustering
 <h5 class="no-anchor card-title listing-title">
 Mon Yuka avec Python
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
-Python
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Streamlit'); return false;">
-Streamlit
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Dataviz'); return false;">
-Dataviz
-</div>
-</div>
-<div class="card-text listing-description">
-Un parcours guidé pour créer une application de lecture de code barre avec <code>Python</code> à la manière de <code>Yuka</code>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+github
+</td>
+<td class="github">
+https://github.com/InseeFrLab/funathon2023_sujet4
+</td>
+</tr>
+
+</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="Python,Analyse de sentiment,NLP" data-listing-file-modified-sort="1686241803223" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="4" data-categories="Python,Analyse de sentiment,NLP" data-listing-file-modified-sort="1686330000985" data-listing-reading-time-sort="1">
 <a href="./subjects/subject5.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -311,30 +279,23 @@ Un parcours guidé pour créer une application de lecture de code barre avec <co
 <h5 class="no-anchor card-title listing-title">
 Analyse textuelle des commentaires clients de restaurants
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
-Python
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Analyse de sentiment'); return false;">
-Analyse de sentiment
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
-NLP
-</div>
-</div>
-<div class="card-text listing-description">
-Analyse de sentiments dans des commentaires clients à partir de données scrappées
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+github
+</td>
+<td class="github">
+https://github.com/InseeFrLab/funathon2023_sujet5
+</td>
+</tr>
+
+</tbody></table>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="Python,NLP,SpaCy" data-listing-file-modified-sort="1686241803223" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="5" data-categories="Python,NLP,SpaCy" data-listing-file-modified-sort="1686330000985" data-listing-reading-time-sort="1">
 <a href="./subjects/subject6.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -344,25 +305,18 @@ Analyse de sentiments dans des commentaires clients à partir de données scrapp
 <h5 class="no-anchor card-title listing-title">
 A la recherche de l’alimentation perdue
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
-Python
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('NLP'); return false;">
-NLP
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('SpaCy'); return false;">
-SpaCy
-</div>
-</div>
-<div class="card-text listing-description">
-Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+github
+</td>
+<td class="github">
+https://github.com/InseeFrLab/funathon2023_sujet6
+</td>
+</tr>
+
+</tbody></table>
 </div>
 </div>
 </a>
@@ -371,7 +325,12 @@ Traitement du langage, rechercher toutes les références à des aliments dans l
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
