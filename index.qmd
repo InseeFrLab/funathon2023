@@ -17,3 +17,5 @@ Pour découvrir les projets de certains participants, c'est sur [la galerie](./g
 
 ::: {#sample-listings}
 :::
+
+L'ensemble des ressources de cet événement est disponible via le [`Github InseeFrLab`](https://github.com/InseeFrLab/funathon2023)
