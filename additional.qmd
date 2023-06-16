@@ -1,10 +1,11 @@
 ---
 title: "Ressources additionnelles"
-listing:
-    contents: additional
-    type: grid
-    sort: "number"
-    categories: true
 ---
 
-Du contenu à venir ultérieurement
+## Replay de la présentation du 16 juin
+
+Retour sur la présentation des sujets,
+du `SSPCloud` et de `Git`:
+
+{{< video https://minio.lab.sspcloud.fr/projet-funathon/2023/diffusion/video1887958271.mp4 
+    title='Replay 16 juin' >}}
