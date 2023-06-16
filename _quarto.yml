@@ -9,6 +9,8 @@ website:
         text: Home
       - href: gallery.qmd
         text: Galerie
+      - href: additional.qmd
+        text: Contenu annexe
       - about.qmd
 
 format:
