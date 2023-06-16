@@ -11,6 +11,12 @@
     ]
   },
   {
+    "listing": "/additional.html",
+    "items": [
+      "/additional/index.html"
+    ]
+  },
+  {
     "listing": "/gallery.html",
     "items": [
       "/gallery/subject4.html"
