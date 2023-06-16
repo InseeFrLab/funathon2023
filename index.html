@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-github',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-github',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-image","listing-number","listing-categories","listing-github","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -95,6 +95,8 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="assets/fontawesome.css">
+<link rel="stylesheet" href="assets/latex.css">
 </head>
 
 <body class="nav-fixed">
@@ -167,164 +169,219 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Cette page recense les ressources préparées par les organisateurs sur les <strong>6 sujets proposés</strong> lors de l’événement 2023.</p>
 <p>Pour découvrir les projets de certains participants, c’est sur <a href="./gallery.html">la galerie</a></p>
-<div id="listing-sample-listings" class="quarto-listing quarto-listing-container-grid">
+<div id="listing-sample-listings" class="quarto-listing quarto-listing-container-custom">
+<link href="index_files/libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Observable,Dataviz" data-listing-file-modified-sort="1686902349283" data-listing-reading-time-sort="1">
-<a href="./subjects/subject1.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://histoire-image.org/sites/default/files/2021-11/jab1_bonheur_001f.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-150 ans d’agriculture en France
-</h5>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-github
-</td>
-<td class="github">
-https://github.com/InseeFrLab/funathon2023_sujet1
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="R,PostGIS,Cartographie" data-listing-file-modified-sort="1686902349287" data-listing-reading-time-sort="1">
-<a href="./subjects/subject2.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./subjects/subject2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Explorer la géographie des cultures agricoles françaises
-</h5>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-github
-</td>
-<td class="github">
-https://github.com/InseeFrLab/funathon2023_sujet2
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="R,Python,Machine Learning,Clustering" data-listing-file-modified-sort="1686902349291" data-listing-reading-time-sort="1">
-<a href="./subjects/subject3.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./subjects/subject3.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Explorer les habitudes alimentaires de nos compatriotes
-</h5>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-github
-</td>
-<td class="github">
-https://github.com/InseeFrLab/funathon2023_sujet3
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="Python,Streamlit,Dataviz" data-listing-file-modified-sort="1686902349291" data-listing-reading-time-sort="1">
-<a href="./subjects/subject4.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://raw.githubusercontent.com/InseeFrLab/funathon2023_sujet4/main/img/demo_yuka.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mon Yuka avec Python
-</h5>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-github
-</td>
-<td class="github">
-https://github.com/InseeFrLab/funathon2023_sujet4
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="Python,Analyse de sentiment,NLP" data-listing-file-modified-sort="1686902349291" data-listing-reading-time-sort="1">
-<a href="./subjects/subject5.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://images.radio-canada.ca/w_635,h_357/v1/ici-tele/16x9/ratatouille-de-brad-bird-3.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Analyse textuelle des commentaires clients de restaurants
-</h5>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-github
-</td>
-<td class="github">
-https://github.com/InseeFrLab/funathon2023_sujet5
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="Python,NLP,SpaCy" data-listing-file-modified-sort="1686902349291" data-listing-reading-time-sort="1">
-<a href="./subjects/subject6.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://raw.githubusercontent.com/InseeFrLab/funathon2023_sujet6/main/images/Marcel_Proust.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-A la recherche de l’alimentation perdue
-</h5>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-github
-</td>
-<td class="github">
-https://github.com/InseeFrLab/funathon2023_sujet6
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
+  <div class="g-col-1" data-index="0" data-categories="Observable,Dataviz" data-listing-file-modified-sort="1686919232811" data-listing-reading-time-sort="1">
+    <div class="quarto-grid-item card h-100 card-left">
+        <p class="card-img-top">
+          <img src="https://histoire-image.org/sites/default/files/2021-11/jab1_bonheur_001f.jpg" class="thumbnail-image card-img" style="height: auto;" alt="">
+        </p>
+        <div class="card-body post-contents">
+          <h5 class="no-anchor card-title listing-title">150 ans d'agriculture en France</h5>
+          <div class="card-subtitle listing-subtitle"></div>
+            <div class="card-text listing-description delink">Une initiation à la dataviz avec observable sur séries longues</div>
+            <div class="card-attribution card-text-small justify">
+              <div class="listing-author"></div>
+              <div class="listing-date"></div>
+            </div>
+          <style>
+            .listing-categories .listing-category .listing-href {
+              color: inherit; /* blue colors for links too */
+              text-decoration: inherit; /* no underline */
+            }
+          </style>
+          <div class="listing-categories" style="padding-top: 1em;">
+              <div class="listing-category">
+                <a class="listing-href" href="https://github.com/InseeFrLab/funathon2023_sujet1" target="_blank" rel="noopener">Github <i class="fa-brands fa-github"></i></a>
+              </div>
+          </div>
+        </div>
+      <!-- <div class="card-footer">
+          <div class="card-filename listing-filename">
+            subject1.qmd
+          </div>
+          <div class="card-file-modified listing-file-modified">
+            6/16/23, 12:40:32 PM
+          </div>
+      </div> -->
+    </div>
+  </div>
+  <div class="g-col-1" data-index="1" data-categories="R,PostGIS,Cartographie" data-listing-file-modified-sort="1686919232815" data-listing-reading-time-sort="1">
+    <div class="quarto-grid-item card h-100 card-left">
+        <p class="card-img-top">
+          <img src="./subjects/subject2.png" class="thumbnail-image card-img" style="height: auto;" alt="">
+        </p>
+        <div class="card-body post-contents">
+          <h5 class="no-anchor card-title listing-title">Explorer la géographie des cultures agricoles françaises</h5>
+          <div class="card-subtitle listing-subtitle"></div>
+            <div class="card-text listing-description delink">Une exploration de la géographie des cultures agricoles</div>
+            <div class="card-attribution card-text-small justify">
+              <div class="listing-author"></div>
+              <div class="listing-date"></div>
+            </div>
+          <style>
+            .listing-categories .listing-category .listing-href {
+              color: inherit; /* blue colors for links too */
+              text-decoration: inherit; /* no underline */
+            }
+          </style>
+          <div class="listing-categories" style="padding-top: 1em;">
+              <div class="listing-category">
+                <a class="listing-href" href="https://github.com/InseeFrLab/funathon2023_sujet2" target="_blank" rel="noopener">Github <i class="fa-brands fa-github"></i></a>
+              </div>
+          </div>
+        </div>
+      <!-- <div class="card-footer">
+          <div class="card-filename listing-filename">
+            subject2.qmd
+          </div>
+          <div class="card-file-modified listing-file-modified">
+            6/16/23, 12:40:32 PM
+          </div>
+      </div> -->
+    </div>
+  </div>
+  <div class="g-col-1" data-index="2" data-categories="R,Python,Machine Learning,Clustering" data-listing-file-modified-sort="1686919232819" data-listing-reading-time-sort="1">
+    <div class="quarto-grid-item card h-100 card-left">
+        <p class="card-img-top">
+          <img src="./subjects/subject3.png" class="thumbnail-image card-img" style="height: auto;" alt="">
+        </p>
+        <div class="card-body post-contents">
+          <h5 class="no-anchor card-title listing-title">Explorer les habitudes alimentaires de nos compatriotes</h5>
+          <div class="card-subtitle listing-subtitle"></div>
+            <div class="card-text listing-description delink">Une initiation à l’analyse exploratoire de données et au clustering</div>
+            <div class="card-attribution card-text-small justify">
+              <div class="listing-author"></div>
+              <div class="listing-date"></div>
+            </div>
+          <style>
+            .listing-categories .listing-category .listing-href {
+              color: inherit; /* blue colors for links too */
+              text-decoration: inherit; /* no underline */
+            }
+          </style>
+          <div class="listing-categories" style="padding-top: 1em;">
+              <div class="listing-category">
+                <a class="listing-href" href="https://github.com/InseeFrLab/funathon2023_sujet3" target="_blank" rel="noopener">Github <i class="fa-brands fa-github"></i></a>
+              </div>
+          </div>
+        </div>
+      <!-- <div class="card-footer">
+          <div class="card-filename listing-filename">
+            subject3.qmd
+          </div>
+          <div class="card-file-modified listing-file-modified">
+            6/16/23, 12:40:32 PM
+          </div>
+      </div> -->
+    </div>
+  </div>
+  <div class="g-col-1" data-index="3" data-categories="Python,Streamlit,Dataviz" data-listing-file-modified-sort="1686919232819" data-listing-reading-time-sort="1">
+    <div class="quarto-grid-item card h-100 card-left">
+        <p class="card-img-top">
+          <img src="https://raw.githubusercontent.com/InseeFrLab/funathon2023_sujet4/main/img/demo_yuka.png" class="thumbnail-image card-img" style="height: auto;" alt="">
+        </p>
+        <div class="card-body post-contents">
+          <h5 class="no-anchor card-title listing-title">Mon Yuka avec Python</h5>
+          <div class="card-subtitle listing-subtitle"></div>
+            <div class="card-text listing-description delink">Un parcours guidé pour créer une application de lecture de code barre avec <code>Python</code> à la manière de <code>Yuka</code></div>
+            <div class="card-attribution card-text-small justify">
+              <div class="listing-author"></div>
+              <div class="listing-date"></div>
+            </div>
+          <style>
+            .listing-categories .listing-category .listing-href {
+              color: inherit; /* blue colors for links too */
+              text-decoration: inherit; /* no underline */
+            }
+          </style>
+          <div class="listing-categories" style="padding-top: 1em;">
+              <div class="listing-category">
+                <a class="listing-href" href="https://github.com/InseeFrLab/funathon2023_sujet4" target="_blank" rel="noopener">Github <i class="fa-brands fa-github"></i></a>
+              </div>
+          </div>
+        </div>
+      <!-- <div class="card-footer">
+          <div class="card-filename listing-filename">
+            subject4.qmd
+          </div>
+          <div class="card-file-modified listing-file-modified">
+            6/16/23, 12:40:32 PM
+          </div>
+      </div> -->
+    </div>
+  </div>
+  <div class="g-col-1" data-index="4" data-categories="Python,Analyse de sentiment,NLP" data-listing-file-modified-sort="1686919232819" data-listing-reading-time-sort="1">
+    <div class="quarto-grid-item card h-100 card-left">
+        <p class="card-img-top">
+          <img src="https://images.radio-canada.ca/w_635,h_357/v1/ici-tele/16x9/ratatouille-de-brad-bird-3.jpg" class="thumbnail-image card-img" style="height: auto;" alt="">
+        </p>
+        <div class="card-body post-contents">
+          <h5 class="no-anchor card-title listing-title">Analyse textuelle des commentaires clients de restaurants</h5>
+          <div class="card-subtitle listing-subtitle"></div>
+            <div class="card-text listing-description delink">Analyse de sentiments dans des commentaires clients à partir de données scrappées</div>
+            <div class="card-attribution card-text-small justify">
+              <div class="listing-author"></div>
+              <div class="listing-date"></div>
+            </div>
+          <style>
+            .listing-categories .listing-category .listing-href {
+              color: inherit; /* blue colors for links too */
+              text-decoration: inherit; /* no underline */
+            }
+          </style>
+          <div class="listing-categories" style="padding-top: 1em;">
+              <div class="listing-category">
+                <a class="listing-href" href="https://github.com/InseeFrLab/funathon2023_sujet5" target="_blank" rel="noopener">Github <i class="fa-brands fa-github"></i></a>
+              </div>
+          </div>
+        </div>
+      <!-- <div class="card-footer">
+          <div class="card-filename listing-filename">
+            subject5.qmd
+          </div>
+          <div class="card-file-modified listing-file-modified">
+            6/16/23, 12:40:32 PM
+          </div>
+      </div> -->
+    </div>
+  </div>
+  <div class="g-col-1" data-index="5" data-categories="Python,NLP,SpaCy" data-listing-file-modified-sort="1686919232819" data-listing-reading-time-sort="1">
+    <div class="quarto-grid-item card h-100 card-left">
+        <p class="card-img-top">
+          <img src="https://raw.githubusercontent.com/InseeFrLab/funathon2023_sujet6/main/images/Marcel_Proust.jpg" class="thumbnail-image card-img" style="height: auto;" alt="">
+        </p>
+        <div class="card-body post-contents">
+          <h5 class="no-anchor card-title listing-title">A la recherche de l'alimentation perdue</h5>
+          <div class="card-subtitle listing-subtitle"></div>
+            <div class="card-text listing-description delink">Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust</div>
+            <div class="card-attribution card-text-small justify">
+              <div class="listing-author"></div>
+              <div class="listing-date"></div>
+            </div>
+          <style>
+            .listing-categories .listing-category .listing-href {
+              color: inherit; /* blue colors for links too */
+              text-decoration: inherit; /* no underline */
+            }
+          </style>
+          <div class="listing-categories" style="padding-top: 1em;">
+              <div class="listing-category">
+                <a class="listing-href" href="https://github.com/InseeFrLab/funathon2023_sujet6" target="_blank" rel="noopener">Github <i class="fa-brands fa-github"></i></a>
+              </div>
+          </div>
+        </div>
+      <!-- <div class="card-footer">
+          <div class="card-filename listing-filename">
+            subject6.qmd
+          </div>
+          <div class="card-file-modified listing-file-modified">
+            6/16/23, 12:40:32 PM
+          </div>
+      </div> -->
+    </div>
+  </div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
