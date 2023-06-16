@@ -7,6 +7,7 @@ categories:
     - PostGIS
     - Cartographie
 github: https://github.com/InseeFrLab/funathon2023_sujet2
+gitlab: https://git.lab.sspcloud.fr/ssplab/funathon2023/funathon_sujet2
 ---
 
 Une exploration de la géographie des cultures agricoles

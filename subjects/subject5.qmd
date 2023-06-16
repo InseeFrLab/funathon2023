@@ -7,6 +7,7 @@ categories:
     - Analyse de sentiment
     - NLP
 github: https://github.com/InseeFrLab/funathon2023_sujet5
+gitlab: https://git.lab.sspcloud.fr/ssplab/funathon2023/funathon_sujet5
 ---
 
 

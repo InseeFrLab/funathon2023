@@ -7,6 +7,7 @@ categories:
     - Streamlit
     - Dataviz
 github: https://github.com/InseeFrLab/funathon2023_sujet4
+gitlab: https://git.lab.sspcloud.fr/ssplab/funathon2023/funathon_sujet4
 ---
 
 
