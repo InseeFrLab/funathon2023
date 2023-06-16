@@ -8,6 +8,7 @@ categories:
     - SpaCy
 github: https://github.com/InseeFrLab/funathon2023_sujet6
 gitlab: https://git.lab.sspcloud.fr/ssplab/funathon2023/funathon_sujet6
+website: https://github.com/InseeFrLab/funathon2023_sujet6
 ---
 
 

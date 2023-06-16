@@ -62,6 +62,11 @@ const imgHeight = "100%";
                 <a class="listing-href" href="<%= item.github %>" target="_blank" rel="noopener">Github <i class="fa-brands fa-github"></i></a>
               </div>
             <% } %>
+            <% if (item.website) { %>
+              <div class="listing-category">
+                <a class="listing-href" href="<%= item.website %>" target="_blank" rel="noopener">Website <i class="fa-brands fa-firefox-browser"></i></a>
+              </div>
+            <% }  %>            
           </div>
         </div>
       <% } %>
