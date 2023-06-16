@@ -2,6 +2,8 @@
 title: "Ressources additionnelles"
 ---
 
+Contenu supplémentaire utile pendant l'événement
+
 ## Replay de la présentation du 16 juin
 
 Retour sur la présentation des sujets,
