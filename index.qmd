@@ -8,6 +8,7 @@ listing:
     sort: "number"
     categories: true
     fields: [image, title, github]
+    template: cards.ejs
 ---
 
 Cette page recense les ressources préparées par les organisateurs sur les __6 sujets proposés__

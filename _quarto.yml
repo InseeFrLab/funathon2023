@@ -15,8 +15,12 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+    css:
+      - styles.css
+      - assets/fontawesome.css
+      - assets/latex.css
     toc: true
 
 
