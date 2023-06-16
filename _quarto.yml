@@ -20,7 +20,7 @@ format:
     css:
       - styles.css
       - assets/fontawesome.css
-      - assets/latex.css
+      - assets/latex-fontsize.css
     toc: true
 
 
