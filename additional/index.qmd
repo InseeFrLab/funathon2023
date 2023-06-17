@@ -13,7 +13,7 @@ categories:
 Retour sur la présentation des sujets,
 du `SSPCloud` et de `Git`. 
 
-Les slides sont [ici](slides/)
+Les slides associées à cette présentation sont [ici](slides/)
 
 {{< video https://minio.lab.sspcloud.fr/projet-funathon/2023/diffusion/video1887958271.mp4 
     title='Replay 16 juin' >}}
