@@ -1,7 +1,5 @@
 ---
-title: "Du contenu à venir"
-image: https://raw.githubusercontent.com/InseeFrLab/funathon2023_sujet4/main/img/demo_yuka.png
-number: 4
+title: "Ressources additionnelles"
 categories:
     - Python
     - Streamlit
@@ -13,7 +11,7 @@ categories:
 Retour sur la présentation des sujets,
 du `SSPCloud` et de `Git`. 
 
-Les slides associées à cette présentation sont [ici](slides/)
+Les slides associées à cette présentation sont [ici](slides/index.html)
 
 {{< video https://minio.lab.sspcloud.fr/projet-funathon/2023/diffusion/video1887958271.mp4 
     title='Replay 16 juin' >}}
