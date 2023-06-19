@@ -2,219 +2,16 @@
   {
     "objectID": "additional/index.html",
     "href": "additional/index.html",
-    "title": "Du contenu à venir",
+    "title": "Ressources additionnelles",
     "section": "",
     "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
   },
   {
     "objectID": "additional/index.html#replay-de-la-présentation-du-16-juin",
     "href": "additional/index.html#replay-de-la-présentation-du-16-juin",
-    "title": "Du contenu à venir",
+    "title": "Ressources additionnelles",
     "section": "",
     "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
-  },
-  {
-    "objectID": "additional/slides/light.html#un-environnement-idéal-pour-la-formation",
-    "href": "additional/slides/light.html#un-environnement-idéal-pour-la-formation",
-    "title": "Présentation du SSP Cloud",
-    "section": "Un environnement idéal pour la formation",
-    "text": "Un environnement idéal pour la formation\n\nPlateforme disponible depuis https://datalab.sspcloud.fr/\n\nPour découvrir et expérimenter…\n… Seulement avec des données en open data\n\n\n\n\nUne plateforme pour l’administration :\n\nOuverte aux agents de l’Etat et à des formations en data science (ENSAE…)\nDes serveurs hébergés à l’Insee\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\nPlateforme recommandée pour cet événement\n\nSignalez-nous si vous ne pouvez créer de compte !"
-  },
-  {
-    "objectID": "additional/slides/light.html#un-environnement-idéal-pour-lanalyse-de-données",
-    "href": "additional/slides/light.html#un-environnement-idéal-pour-lanalyse-de-données",
-    "title": "Présentation du SSP Cloud",
-    "section": "Un environnement idéal pour l’analyse de données",
-    "text": "Un environnement idéal pour l’analyse de données"
-  },
-  {
-    "objectID": "additional/slides/light.html#en-plus-le-ssp-cloud-cest-wahou",
-    "href": "additional/slides/light.html#en-plus-le-ssp-cloud-cest-wahou",
-    "title": "Présentation du SSP Cloud",
-    "section": "En plus, le SSP Cloud, c’est wahou ! 😍",
-    "text": "En plus, le SSP Cloud, c’est wahou ! 😍\n\nhttps://datalab.sspcloud.fr"
-  },
-  {
-    "objectID": "additional/slides/light.html#une-plateforme-pour-la-reproductibilité-et-la-liberté",
-    "href": "additional/slides/light.html#une-plateforme-pour-la-reproductibilité-et-la-liberté",
-    "title": "Présentation du SSP Cloud",
-    "section": "Une plateforme pour la reproductibilité et la liberté",
-    "text": "Une plateforme pour la reproductibilité et la liberté\n\nVous passez un contrat avec le SSP Cloud pour créer un RStudio ou Jupyter\n\nCelui-ci tourne sur des serveurs distants auxquels vous accédez via le navigateur\n\n\n\n\nEnvironnement initialement standardisé :\n\nTout le monde part du même socle minimal\nLiberté d’installer des packages ou librairies Linux"
-  },
-  {
-    "objectID": "additional/slides/light.html#une-plateforme-pour-les-bonnes-pratiques",
-    "href": "additional/slides/light.html#une-plateforme-pour-les-bonnes-pratiques",
-    "title": "Présentation du SSP Cloud",
-    "section": "Une plateforme pour les bonnes pratiques",
-    "text": "Une plateforme pour les bonnes pratiques\n\n\nDans un environnement différent\n\n\nSource: https://ensae-reproductibilite.github.io\n\n\nEnvironnements temporaires donc:\n\nStocker le code dans un endroit pérenne: Github, Gitlab\nStocker les données dans un endroit pérenne: MinIO\n\n\n\n\nDans le cadre du Funathon\n\n\n\n\n\nPour ceux voulant aller (vraiment) plus loin\n\n\nSource: https://ensae-reproductibilite.github.io\n\n\n\n\n\n\n\nNote\n\n\nLes services durent plusieurs jours mais n’ont pas vocation à persister"
-  },
-  {
-    "objectID": "additional/slides/light.html#des-services-standardisés-pour-les-gouverner-tous",
-    "href": "additional/slides/light.html#des-services-standardisés-pour-les-gouverner-tous",
-    "title": "Présentation du SSP Cloud",
-    "section": "Des services standardisés pour les gouverner tous",
-    "text": "Des services standardisés pour les gouverner tous"
-  },
-  {
-    "objectID": "additional/slides/light.html#un-système-de-stockage-pérenne-pour-les-données",
-    "href": "additional/slides/light.html#un-système-de-stockage-pérenne-pour-les-données",
-    "title": "Présentation du SSP Cloud",
-    "section": "Un système de stockage pérenne pour les données",
-    "text": "Un système de stockage pérenne pour les données"
-  },
-  {
-    "objectID": "additional/slides/light.html#quand-r-ou-python-ne-suffisent-plus",
-    "href": "additional/slides/light.html#quand-r-ou-python-ne-suffisent-plus",
-    "title": "Présentation du SSP Cloud",
-    "section": "Quand R ou Python ne suffisent plus",
-    "text": "Quand R ou Python ne suffisent plus\nDes technologies spéciales pour les bases de données"
-  },
-  {
-    "objectID": "additional/slides/light.html#quand-r-ou-python-ne-suffisent-plus-1",
-    "href": "additional/slides/light.html#quand-r-ou-python-ne-suffisent-plus-1",
-    "title": "Présentation du SSP Cloud",
-    "section": "Quand R ou Python ne suffisent plus",
-    "text": "Quand R ou Python ne suffisent plus\nDes technologies adaptées aux données volumineuses"
-  },
-  {
-    "objectID": "additional/slides/light.html#bonus",
-    "href": "additional/slides/light.html#bonus",
-    "title": "Présentation du SSP Cloud",
-    "section": "Bonus",
-    "text": "Bonus\nLes statisticiens ayant découvert le SSPCloud, quand ils doivent revenir à leur infra habituelle"
-  },
-  {
-    "objectID": "additional/slides/light.html#checklist",
-    "href": "additional/slides/light.html#checklist",
-    "title": "Présentation du SSP Cloud",
-    "section": "Checklist",
-    "text": "Checklist\n\nCréer un compte\nSe connecter\nTrouver de l’aide\nLancer un service de data science (R, Jupyter…)\nUtiliser Git\nUtiliser le stockage objet MinIO"
-  },
-  {
-    "objectID": "additional/slides/light.html#créer-un-compte",
-    "href": "additional/slides/light.html#créer-un-compte",
-    "title": "Présentation du SSP Cloud",
-    "section": "Créer un compte",
-    "text": "Créer un compte\n\nAller sur https://datalab.sspcloud.fr puis Connexion et Créer un compte\n\nUtiliser une adresse mail d’un domaine autorisé (@insee.fr, @..gouv.fr…)\nDomaines @gmail.com, @yahoo.fr… non admis\nSeuls les domaines institutionnels sont autorisés (universités, écoles, administrations…)\n\n\n\n\nSi besoin, demandez-nous pour rajouter un domaine"
-  },
-  {
-    "objectID": "additional/slides/light.html#se-connecter",
-    "href": "additional/slides/light.html#se-connecter",
-    "title": "Présentation du SSP Cloud",
-    "section": "Se connecter",
-    "text": "Se connecter\n\nAller sur https://datalab.sspcloud.fr\nCliquer sur Connexion"
-  },
-  {
-    "objectID": "additional/slides/light.html#trouver-de-laide",
-    "href": "additional/slides/light.html#trouver-de-laide",
-    "title": "Présentation du SSP Cloud",
-    "section": "Trouver de l’aide",
-    "text": "Trouver de l’aide\n\nDocumentation : https://docs.sspcloud.fr/\n\n\n\nPortail de la formation à mettre en ⭐️ : https://www.sspcloud.fr/formation\n\n\n\n\nPoser des questions sur les fils Tchap:\n\nSSPCloud de manière générale ;\nInsee - SSPLab - Funathon 2023 pendant cet événement ;"
-  },
-  {
-    "objectID": "additional/slides/light.html#lancer-un-service-de-data-science",
-    "href": "additional/slides/light.html#lancer-un-service-de-data-science",
-    "title": "Présentation du SSP Cloud",
-    "section": "Lancer un service de data science",
-    "text": "Lancer un service de data science\nhttps://docs.sspcloud.fr/onyxia-guide/premiere-utilisation\n\nChaque service possède un README, lisez-le 😉\n\n\n\nChaque service est protégé par un mot de passe, copiez-le\n\n\n\n\nLes services sont éphémères\n\nUtilisez Git (avec Github ou Gitlab) pour sauvegarder vos notebooks et codes\n\nUtilisez MinIO pour sauvegarder vos données\nsinon vous pourriez perdre votre travail"
-  },
-  {
-    "objectID": "additional/slides/light.html#utiliser-git",
-    "href": "additional/slides/light.html#utiliser-git",
-    "title": "Présentation du SSP Cloud",
-    "section": "Utiliser Git",
-    "text": "Utiliser Git\nhttps://docs.sspcloud.fr/onyxia-guide/controle-de-version\n\nObligatoire pour ne pas perdre de travail (notebooks et codes)\nIndispensable pour collaborer\nCompatible avec la forge de votre choix (GitHub, GitLab…)"
-  },
-  {
-    "objectID": "additional/slides/light.html#utiliser-le-stockage-objet-minio",
-    "href": "additional/slides/light.html#utiliser-le-stockage-objet-minio",
-    "title": "Présentation du SSP Cloud",
-    "section": "Utiliser le stockage objet MinIO",
-    "text": "Utiliser le stockage objet MinIO\nhttps://docs.sspcloud.fr/onyxia-guide/stockage-de-donnees\n\nPour déposer ses données comme si on avait un service de fichier local\nChaque utilisateur a un bucket personnel\nPossibilité de rendre des données publiques\nLibrairies Python (Boto3 ou S3Fs) ou R (aws.s3)"
-  },
-  {
-    "objectID": "additional/slides/light.html#utiliser-le-stockage-objet-minio-1",
-    "href": "additional/slides/light.html#utiliser-le-stockage-objet-minio-1",
-    "title": "Présentation du SSP Cloud",
-    "section": "Utiliser le stockage objet MinIO",
-    "text": "Utiliser le stockage objet MinIO"
-  },
-  {
-    "objectID": "additional/slides/light.html#lancer-un-service-prêt-à-lemploi",
-    "href": "additional/slides/light.html#lancer-un-service-prêt-à-lemploi",
-    "title": "Présentation du SSP Cloud",
-    "section": "Lancer un service prêt-à-l’emploi",
-    "text": "Lancer un service prêt-à-l’emploi\n\nUn exemple avec R (Explorer la géographie des cultures agricoles françaises)\n\n\n\n\n\n\n\nUn exemple avec Python (Mon Yuka avec Python)"
-  },
-  {
-    "objectID": "additional/slides/light.html#pourquoi-faire-du-contrôle-de-version",
-    "href": "additional/slides/light.html#pourquoi-faire-du-contrôle-de-version",
-    "title": "Présentation du SSP Cloud",
-    "section": "Pourquoi faire du contrôle de version ?",
-    "text": "Pourquoi faire du contrôle de version ?\n\nConstruire et naviguer à travers l’historique de son projet\n\n\n\nLa collaboration rendue simple et efficace\n\n\n\n\nAméliorer la reproductibilité de ses projets\n\n\n\n\nAméliorer la visibilité de ses projets\n\n\n\n\n\n\n\nNote\n\n\nPlus d’éléments dans la formation officielle"
-  },
-  {
-    "objectID": "additional/slides/light.html#gymnastique",
-    "href": "additional/slides/light.html#gymnastique",
-    "title": "Présentation du SSP Cloud",
-    "section": "Gymnastique",
-    "text": "Gymnastique\n\n\n\n\n\n\nPar défaut, le dépôt distant porte l’alias origin"
-  },
-  {
-    "objectID": "additional/slides/light.html#ressources-supplémentaires",
-    "href": "additional/slides/light.html#ressources-supplémentaires",
-    "title": "Présentation du SSP Cloud",
-    "section": "Ressources supplémentaires",
-    "text": "Ressources supplémentaires\n\nPour aller plus loin:\n\nFormation aux bonnes pratiques avec Git et R\nIntroduction à Git pour Python\nLa documentation utilitR propose plusieurs chapitres sur Git\nLa Bible de l’usage de Git"
-  },
-  {
-    "objectID": "additional/slides/light.html#objectif",
-    "href": "additional/slides/light.html#objectif",
-    "title": "Présentation du SSP Cloud",
-    "section": "Objectif",
-    "text": "Objectif\n\nDécouvrir S3\nDécouvrir Git à travers l’interface RStudio\nDécouvrir l’interaction entre Git, RStudio et Gitlab\nSe familiariser avec quelques concepts de Git\n\n\n\nMéthode préconisée pour Git:\n\nOn propose de travailler sur la même branche…\n… mais des fichiers séparés.\nEvite l’utilisation de branches tout en limitant les conflits.\n\n\n\n\n\nTrouver de l’aide:\n\nPour toute question : le salon Tchap Insee-Git-Gitlab\nA l’Insee : la documentation utilisateurs pour l’utilisation de Git sur AUS\nSollicitez vos collègues utilisateurs de Git !"
-  },
-  {
-    "objectID": "additional/slides/light.html#démonstration",
-    "href": "additional/slides/light.html#démonstration",
-    "title": "Présentation du SSP Cloud",
-    "section": "Démonstration 🚀",
-    "text": "Démonstration 🚀\nExemple à partir du sujet 2"
-  },
-  {
-    "objectID": "additional/slides/light.html#aide-mémoire-s3",
-    "href": "additional/slides/light.html#aide-mémoire-s3",
-    "title": "Présentation du SSP Cloud",
-    "section": "Aide-mémoire S3",
-    "text": "Aide-mémoire S3\n\n\nExemples issus d’utilitR\n\nbucket &lt;- \"donnees-insee\"\naws.s3::get_bucket(bucket, region = \"\")\ndf &lt;- \n  aws.s3::s3read_using(\n    FUN = data.table::fread,\n    # Mettre les options de FUN ici\n    object = \"diffusion/FILOSOFI/2016/FILOSOFI_COM.csv\",\n    bucket = \"donnees-insee\",\n    opts = list(\"region\" = \"\")\n  )\naws.s3::s3write_using(\n  df,\n  FUN = data.table::fwrite,\n  # Les options de fread sont ici\n  sep = \" ;\",\n  col.names = TRUE,\n  object = \"data/filosofi2016_example.csv\",\n  bucket = \"MON_BUCKET_A_REMPLACER\",\n  opts = list(\"region\" = \"\")\n)\n\n\n\nExemples additionnels liés au Funathon\n\nbucket &lt;- \"donnees-funathon\"\naws.s3::get_bucket(bucket, region = \"\", prefix = \"2023/sujet2/diffusion\")"
-  },
-  {
-    "objectID": "additional/slides/light.html#démonstration-1",
-    "href": "additional/slides/light.html#démonstration-1",
-    "title": "Présentation du SSP Cloud",
-    "section": "Démonstration 🚀",
-    "text": "Démonstration 🚀\nExemple à partir du sujet 4"
-  },
-  {
-    "objectID": "additional/slides/light.html#aide-mémoire-s3-1",
-    "href": "additional/slides/light.html#aide-mémoire-s3-1",
-    "title": "Présentation du SSP Cloud",
-    "section": "Aide-mémoire S3",
-    "text": "Aide-mémoire S3\nVoir https://pythonds.linogaliana.fr/reads3/"
-  },
-  {
-    "objectID": "additional/slides/light.html#git",
-    "href": "additional/slides/light.html#git",
-    "title": "Présentation du SSP Cloud",
-    "section": "Git",
-    "text": "Git\nVoir https://pythonds.linogaliana.fr/exogit/"
-  },
-  {
-    "objectID": "additional/slides/light.html#questions",
-    "href": "additional/slides/light.html#questions",
-    "title": "Présentation du SSP Cloud",
-    "section": "Questions",
-    "text": "Questions\n\n\nFunathon 2023"
   },
   {
     "objectID": "index.html",
@@ -238,6 +35,209 @@
     "text": "Ressources utiles\nListe des sujets:\n\nSujet 1 : 150 ans d’agriculture en France Une initiation à la dataviz avec observable sur séries longues\nSujet 2 : Explorer la géographie des cultures agricoles françaises Une exploration de la géographie des cultures agricoles\nSujet 3 : Explorer les habitudes alimentaires de nos compatriotes Une initiation à l’analyse exploratoire de données et au clustering\nSujet 4 : Produire une application qui scanne le code barre d’un produit et donne sa composition nutritionnelle Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka\nSujet 5 : Analyse textuelle des commentaires clients de restaurants Analyse de sentiments dans des commentaires clients à partir de données scrappées\nSujet 6 : A la recherche de l’alimentation perdue Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust\n\nReplay de la présentation du 16 juin (présentation du principe de l’événement, présentation du SSP Cloud et de l’usage de Git): INCOMING\nDépôt Github centralisant le contenu de ce site web: https://github.com/InseeFrLab/funathon2023"
   },
   {
+    "objectID": "slides/light.html#un-environnement-idéal-pour-la-formation",
+    "href": "slides/light.html#un-environnement-idéal-pour-la-formation",
+    "title": "Présentation du SSP Cloud",
+    "section": "Un environnement idéal pour la formation",
+    "text": "Un environnement idéal pour la formation\n\nPlateforme disponible depuis https://datalab.sspcloud.fr/\n\nPour découvrir et expérimenter…\n… Seulement avec des données en open data\n\n\n\n\nUne plateforme pour l’administration :\n\nOuverte aux agents de l’Etat et à des formations en data science (ENSAE…)\nDes serveurs hébergés à l’Insee\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\nPlateforme recommandée pour cet événement\n\nSignalez-nous si vous ne pouvez créer de compte !"
+  },
+  {
+    "objectID": "slides/light.html#un-environnement-idéal-pour-lanalyse-de-données",
+    "href": "slides/light.html#un-environnement-idéal-pour-lanalyse-de-données",
+    "title": "Présentation du SSP Cloud",
+    "section": "Un environnement idéal pour l’analyse de données",
+    "text": "Un environnement idéal pour l’analyse de données"
+  },
+  {
+    "objectID": "slides/light.html#en-plus-le-ssp-cloud-cest-wahou",
+    "href": "slides/light.html#en-plus-le-ssp-cloud-cest-wahou",
+    "title": "Présentation du SSP Cloud",
+    "section": "En plus, le SSP Cloud, c’est wahou ! 😍",
+    "text": "En plus, le SSP Cloud, c’est wahou ! 😍\n\nhttps://datalab.sspcloud.fr"
+  },
+  {
+    "objectID": "slides/light.html#une-plateforme-pour-la-reproductibilité-et-la-liberté",
+    "href": "slides/light.html#une-plateforme-pour-la-reproductibilité-et-la-liberté",
+    "title": "Présentation du SSP Cloud",
+    "section": "Une plateforme pour la reproductibilité et la liberté",
+    "text": "Une plateforme pour la reproductibilité et la liberté\n\nVous passez un contrat avec le SSP Cloud pour créer un RStudio ou Jupyter\n\nCelui-ci tourne sur des serveurs distants auxquels vous accédez via le navigateur\n\n\n\n\nEnvironnement initialement standardisé :\n\nTout le monde part du même socle minimal\nLiberté d’installer des packages ou librairies Linux"
+  },
+  {
+    "objectID": "slides/light.html#une-plateforme-pour-les-bonnes-pratiques",
+    "href": "slides/light.html#une-plateforme-pour-les-bonnes-pratiques",
+    "title": "Présentation du SSP Cloud",
+    "section": "Une plateforme pour les bonnes pratiques",
+    "text": "Une plateforme pour les bonnes pratiques\n\n\nDans un environnement différent\n\n\nSource: https://ensae-reproductibilite.github.io\n\n\nEnvironnements temporaires donc:\n\nStocker le code dans un endroit pérenne: Github, Gitlab\nStocker les données dans un endroit pérenne: MinIO\n\n\n\n\nDans le cadre du Funathon\n\n\n\n\n\nPour ceux voulant aller (vraiment) plus loin\n\n\nSource: https://ensae-reproductibilite.github.io\n\n\n\n\n\n\n\nNote\n\n\nLes services durent plusieurs jours mais n’ont pas vocation à persister"
+  },
+  {
+    "objectID": "slides/light.html#des-services-standardisés-pour-les-gouverner-tous",
+    "href": "slides/light.html#des-services-standardisés-pour-les-gouverner-tous",
+    "title": "Présentation du SSP Cloud",
+    "section": "Des services standardisés pour les gouverner tous",
+    "text": "Des services standardisés pour les gouverner tous"
+  },
+  {
+    "objectID": "slides/light.html#un-système-de-stockage-pérenne-pour-les-données",
+    "href": "slides/light.html#un-système-de-stockage-pérenne-pour-les-données",
+    "title": "Présentation du SSP Cloud",
+    "section": "Un système de stockage pérenne pour les données",
+    "text": "Un système de stockage pérenne pour les données"
+  },
+  {
+    "objectID": "slides/light.html#quand-r-ou-python-ne-suffisent-plus",
+    "href": "slides/light.html#quand-r-ou-python-ne-suffisent-plus",
+    "title": "Présentation du SSP Cloud",
+    "section": "Quand R ou Python ne suffisent plus",
+    "text": "Quand R ou Python ne suffisent plus\nDes technologies spéciales pour les bases de données"
+  },
+  {
+    "objectID": "slides/light.html#quand-r-ou-python-ne-suffisent-plus-1",
+    "href": "slides/light.html#quand-r-ou-python-ne-suffisent-plus-1",
+    "title": "Présentation du SSP Cloud",
+    "section": "Quand R ou Python ne suffisent plus",
+    "text": "Quand R ou Python ne suffisent plus\nDes technologies adaptées aux données volumineuses"
+  },
+  {
+    "objectID": "slides/light.html#bonus",
+    "href": "slides/light.html#bonus",
+    "title": "Présentation du SSP Cloud",
+    "section": "Bonus",
+    "text": "Bonus\nLes statisticiens ayant découvert le SSPCloud, quand ils doivent revenir à leur infra habituelle"
+  },
+  {
+    "objectID": "slides/light.html#checklist",
+    "href": "slides/light.html#checklist",
+    "title": "Présentation du SSP Cloud",
+    "section": "Checklist",
+    "text": "Checklist\n\nCréer un compte\nSe connecter\nTrouver de l’aide\nLancer un service de data science (R, Jupyter…)\nUtiliser Git\nUtiliser le stockage objet MinIO"
+  },
+  {
+    "objectID": "slides/light.html#créer-un-compte",
+    "href": "slides/light.html#créer-un-compte",
+    "title": "Présentation du SSP Cloud",
+    "section": "Créer un compte",
+    "text": "Créer un compte\n\nAller sur https://datalab.sspcloud.fr puis Connexion et Créer un compte\n\nUtiliser une adresse mail d’un domaine autorisé (@insee.fr, @..gouv.fr…)\nDomaines @gmail.com, @yahoo.fr… non admis\nSeuls les domaines institutionnels sont autorisés (universités, écoles, administrations…)\n\n\n\n\nSi besoin, demandez-nous pour rajouter un domaine"
+  },
+  {
+    "objectID": "slides/light.html#se-connecter",
+    "href": "slides/light.html#se-connecter",
+    "title": "Présentation du SSP Cloud",
+    "section": "Se connecter",
+    "text": "Se connecter\n\nAller sur https://datalab.sspcloud.fr\nCliquer sur Connexion"
+  },
+  {
+    "objectID": "slides/light.html#trouver-de-laide",
+    "href": "slides/light.html#trouver-de-laide",
+    "title": "Présentation du SSP Cloud",
+    "section": "Trouver de l’aide",
+    "text": "Trouver de l’aide\n\nDocumentation : https://docs.sspcloud.fr/\n\n\n\nPortail de la formation à mettre en ⭐️ : https://www.sspcloud.fr/formation\n\n\n\n\nPoser des questions sur les fils Tchap:\n\nSSPCloud de manière générale ;\nInsee - SSPLab - Funathon 2023 pendant cet événement ;"
+  },
+  {
+    "objectID": "slides/light.html#lancer-un-service-de-data-science",
+    "href": "slides/light.html#lancer-un-service-de-data-science",
+    "title": "Présentation du SSP Cloud",
+    "section": "Lancer un service de data science",
+    "text": "Lancer un service de data science\nhttps://docs.sspcloud.fr/onyxia-guide/premiere-utilisation\n\nChaque service possède un README, lisez-le 😉\n\n\n\nChaque service est protégé par un mot de passe, copiez-le\n\n\n\n\nLes services sont éphémères\n\nUtilisez Git (avec Github ou Gitlab) pour sauvegarder vos notebooks et codes\n\nUtilisez MinIO pour sauvegarder vos données\nsinon vous pourriez perdre votre travail"
+  },
+  {
+    "objectID": "slides/light.html#utiliser-git",
+    "href": "slides/light.html#utiliser-git",
+    "title": "Présentation du SSP Cloud",
+    "section": "Utiliser Git",
+    "text": "Utiliser Git\nhttps://docs.sspcloud.fr/onyxia-guide/controle-de-version\n\nObligatoire pour ne pas perdre de travail (notebooks et codes)\nIndispensable pour collaborer\nCompatible avec la forge de votre choix (GitHub, GitLab…)"
+  },
+  {
+    "objectID": "slides/light.html#utiliser-le-stockage-objet-minio",
+    "href": "slides/light.html#utiliser-le-stockage-objet-minio",
+    "title": "Présentation du SSP Cloud",
+    "section": "Utiliser le stockage objet MinIO",
+    "text": "Utiliser le stockage objet MinIO\nhttps://docs.sspcloud.fr/onyxia-guide/stockage-de-donnees\n\nPour déposer ses données comme si on avait un service de fichier local\nChaque utilisateur a un bucket personnel\nPossibilité de rendre des données publiques\nLibrairies Python (Boto3 ou S3Fs) ou R (aws.s3)"
+  },
+  {
+    "objectID": "slides/light.html#utiliser-le-stockage-objet-minio-1",
+    "href": "slides/light.html#utiliser-le-stockage-objet-minio-1",
+    "title": "Présentation du SSP Cloud",
+    "section": "Utiliser le stockage objet MinIO",
+    "text": "Utiliser le stockage objet MinIO"
+  },
+  {
+    "objectID": "slides/light.html#lancer-un-service-prêt-à-lemploi",
+    "href": "slides/light.html#lancer-un-service-prêt-à-lemploi",
+    "title": "Présentation du SSP Cloud",
+    "section": "Lancer un service prêt-à-l’emploi",
+    "text": "Lancer un service prêt-à-l’emploi\n\nUn exemple avec R (Explorer la géographie des cultures agricoles françaises)\n\n\n\n\n\n\n\nUn exemple avec Python (Mon Yuka avec Python)"
+  },
+  {
+    "objectID": "slides/light.html#pourquoi-faire-du-contrôle-de-version",
+    "href": "slides/light.html#pourquoi-faire-du-contrôle-de-version",
+    "title": "Présentation du SSP Cloud",
+    "section": "Pourquoi faire du contrôle de version ?",
+    "text": "Pourquoi faire du contrôle de version ?\n\nConstruire et naviguer à travers l’historique de son projet\n\n\n\nLa collaboration rendue simple et efficace\n\n\n\n\nAméliorer la reproductibilité de ses projets\n\n\n\n\nAméliorer la visibilité de ses projets\n\n\n\n\n\n\n\nNote\n\n\nPlus d’éléments dans la formation officielle"
+  },
+  {
+    "objectID": "slides/light.html#gymnastique",
+    "href": "slides/light.html#gymnastique",
+    "title": "Présentation du SSP Cloud",
+    "section": "Gymnastique",
+    "text": "Gymnastique\n\n\n\n\n\n\nPar défaut, le dépôt distant porte l’alias origin"
+  },
+  {
+    "objectID": "slides/light.html#ressources-supplémentaires",
+    "href": "slides/light.html#ressources-supplémentaires",
+    "title": "Présentation du SSP Cloud",
+    "section": "Ressources supplémentaires",
+    "text": "Ressources supplémentaires\n\nPour aller plus loin:\n\nFormation aux bonnes pratiques avec Git et R\nIntroduction à Git pour Python\nLa documentation utilitR propose plusieurs chapitres sur Git\nLa Bible de l’usage de Git"
+  },
+  {
+    "objectID": "slides/light.html#objectif",
+    "href": "slides/light.html#objectif",
+    "title": "Présentation du SSP Cloud",
+    "section": "Objectif",
+    "text": "Objectif\n\nDécouvrir S3\nDécouvrir Git à travers l’interface RStudio\nDécouvrir l’interaction entre Git, RStudio et Gitlab\nSe familiariser avec quelques concepts de Git\n\n\n\nMéthode préconisée pour Git:\n\nOn propose de travailler sur la même branche…\n… mais des fichiers séparés.\nEvite l’utilisation de branches tout en limitant les conflits.\n\n\n\n\n\nTrouver de l’aide:\n\nPour toute question : le salon Tchap Insee-Git-Gitlab\nA l’Insee : la documentation utilisateurs pour l’utilisation de Git sur AUS\nSollicitez vos collègues utilisateurs de Git !"
+  },
+  {
+    "objectID": "slides/light.html#démonstration",
+    "href": "slides/light.html#démonstration",
+    "title": "Présentation du SSP Cloud",
+    "section": "Démonstration 🚀",
+    "text": "Démonstration 🚀\nExemple à partir du sujet 2"
+  },
+  {
+    "objectID": "slides/light.html#aide-mémoire-s3",
+    "href": "slides/light.html#aide-mémoire-s3",
+    "title": "Présentation du SSP Cloud",
+    "section": "Aide-mémoire S3",
+    "text": "Aide-mémoire S3\n\n\nExemples issus d’utilitR\n\nbucket &lt;- \"donnees-insee\"\naws.s3::get_bucket(bucket, region = \"\")\ndf &lt;- \n  aws.s3::s3read_using(\n    FUN = data.table::fread,\n    # Mettre les options de FUN ici\n    object = \"diffusion/FILOSOFI/2016/FILOSOFI_COM.csv\",\n    bucket = \"donnees-insee\",\n    opts = list(\"region\" = \"\")\n  )\naws.s3::s3write_using(\n  df,\n  FUN = data.table::fwrite,\n  # Les options de fread sont ici\n  sep = \" ;\",\n  col.names = TRUE,\n  object = \"data/filosofi2016_example.csv\",\n  bucket = \"MON_BUCKET_A_REMPLACER\",\n  opts = list(\"region\" = \"\")\n)\n\n\n\nExemples additionnels liés au Funathon\n\nbucket &lt;- \"donnees-funathon\"\naws.s3::get_bucket(bucket, region = \"\", prefix = \"2023/sujet2/diffusion\")"
+  },
+  {
+    "objectID": "slides/light.html#démonstration-1",
+    "href": "slides/light.html#démonstration-1",
+    "title": "Présentation du SSP Cloud",
+    "section": "Démonstration 🚀",
+    "text": "Démonstration 🚀\nExemple à partir du sujet 4"
+  },
+  {
+    "objectID": "slides/light.html#aide-mémoire-s3-1",
+    "href": "slides/light.html#aide-mémoire-s3-1",
+    "title": "Présentation du SSP Cloud",
+    "section": "Aide-mémoire S3",
+    "text": "Aide-mémoire S3\nVoir https://pythonds.linogaliana.fr/reads3/"
+  },
+  {
+    "objectID": "slides/light.html#git",
+    "href": "slides/light.html#git",
+    "title": "Présentation du SSP Cloud",
+    "section": "Git",
+    "text": "Git\nVoir https://pythonds.linogaliana.fr/exogit/"
+  },
+  {
+    "objectID": "slides/light.html#questions",
+    "href": "slides/light.html#questions",
+    "title": "Présentation du SSP Cloud",
+    "section": "Questions",
+    "text": "Questions\n\n\nFunathon 2023"
+  },
+  {
     "objectID": "gallery/subject4.html",
     "href": "gallery/subject4.html",
     "title": "Exemple de projet",
@@ -256,7 +256,7 @@
     "href": "additional.html#replay-de-la-présentation-du-16-juin",
     "title": "Ressources additionnelles",
     "section": "Replay de la présentation du 16 juin",
-    "text": "Replay de la présentation du 16 juin\nRetour sur la présentation des sujets, du SSPCloud et de Git:"
+    "text": "Replay de la présentation du 16 juin\nRetour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
   },
   {
     "objectID": "gallery.html",
