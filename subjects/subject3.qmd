@@ -5,12 +5,14 @@ number: 3
 categories:
     - R
     - Python
-    - Machine Learning
-    - Clustering
+    - Dataviz
     - Cartographie
+    - Clustering
+    - Machine Learning
+    
 github: https://github.com/InseeFrLab/funathon2023_sujet3
 gitlab: https://git.lab.sspcloud.fr/ssplab/funathon2023/funathon_sujet3
 website: https://github.com/InseeFrLab/funathon2023_sujet3
 ---
 
-Une initiation à l'analyse exploratoire de données et au clustering
+Une initiation à l'analyse exploratoire de données au clustering et au machine learning
