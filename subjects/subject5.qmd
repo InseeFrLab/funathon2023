@@ -4,8 +4,10 @@ image: https://images.radio-canada.ca/w_635,h_357/v1/ici-tele/16x9/ratatouille-d
 number: 5
 categories:
     - Python
+    - Web Scraping
     - Analyse de sentiment
     - NLP
+    - SpaCy
 github: https://github.com/InseeFrLab/funathon2023_sujet5
 gitlab: https://git.lab.sspcloud.fr/ssplab/funathon2023/funathon_sujet5
 website: https://github.com/InseeFrLab/funathon2023_sujet5
