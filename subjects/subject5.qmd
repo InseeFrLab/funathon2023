@@ -14,4 +14,4 @@ website: https://github.com/InseeFrLab/funathon2023_sujet5
 ---
 
 
-Analyse de sentiments dans des commentaires clients à partir de données scrappées
+Analyse de sentiments dans des commentaires clients à partir de données scrapées sur Trustpilot
