@@ -7,7 +7,7 @@ categories:
     - Dataviz
 github: https://github.com/InseeFrLab/funathon2023_sujet1
 gitlab: https://git.lab.sspcloud.fr/ssplab/funathon2023/funathon_sujet1
-website: https://github.com/InseeFrLab/funathon2023_sujet1
+website: https://observablehq.com/@francoissemecurbe/le-recensement-agricole-de-1852
 ---
 
 Une initiation à la dataviz avec observable sur séries longues
