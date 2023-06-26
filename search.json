@@ -1,17 +1,52 @@
 [
   {
-    "objectID": "additional/index.html",
-    "href": "additional/index.html",
-    "title": "Ressources additionnelles",
+    "objectID": "gallery/subject4.html",
+    "href": "gallery/subject4.html",
+    "title": "Exemple de projet",
     "section": "",
-    "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
+    "text": "De vrais exemples faits par les participants à venir"
   },
   {
-    "objectID": "additional/index.html#replay-de-la-présentation-du-16-juin",
-    "href": "additional/index.html#replay-de-la-présentation-du-16-juin",
+    "objectID": "subjects/subject5.html",
+    "href": "subjects/subject5.html",
+    "title": "Analyse textuelle des commentaires clients de restaurants",
+    "section": "",
+    "text": "Analyse de sentiments dans des commentaires clients à partir de données scrapées sur Trustpilot"
+  },
+  {
+    "objectID": "subjects/subject4.html",
+    "href": "subjects/subject4.html",
+    "title": "Mon Yuka avec Python",
+    "section": "",
+    "text": "Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka"
+  },
+  {
+    "objectID": "subjects/subject2.html",
+    "href": "subjects/subject2.html",
+    "title": "Explorer la géographie des cultures agricoles françaises",
+    "section": "",
+    "text": "Une exploration de la géographie des cultures agricoles"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Galerie d’exemples",
+    "section": "",
+    "text": "Une galerie d’exemples de projets faits par les participants de cette édition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExemple de projet\n\n\n\nPython\n\n\nStreamlit\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "additional.html",
+    "href": "additional.html",
     "title": "Ressources additionnelles",
     "section": "",
-    "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
+    "text": "Contenu supplémentaire utile pendant l’événement"
+  },
+  {
+    "objectID": "additional.html#replay-de-la-présentation-du-16-juin",
+    "href": "additional.html#replay-de-la-présentation-du-16-juin",
+    "title": "Ressources additionnelles",
+    "section": "Replay de la présentation du 16 juin",
+    "text": "Replay de la présentation du 16 juin\nRetour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
   },
   {
     "objectID": "index.html",
@@ -238,39 +273,18 @@
     "text": "Questions\n\n\nFunathon 2023"
   },
   {
-    "objectID": "gallery/subject4.html",
-    "href": "gallery/subject4.html",
-    "title": "Exemple de projet",
-    "section": "",
-    "text": "De vrais exemples faits par les participants à venir"
-  },
-  {
-    "objectID": "additional.html",
-    "href": "additional.html",
+    "objectID": "additional/index.html",
+    "href": "additional/index.html",
     "title": "Ressources additionnelles",
     "section": "",
-    "text": "Contenu supplémentaire utile pendant l’événement"
+    "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
   },
   {
-    "objectID": "additional.html#replay-de-la-présentation-du-16-juin",
-    "href": "additional.html#replay-de-la-présentation-du-16-juin",
+    "objectID": "additional/index.html#replay-de-la-présentation-du-16-juin",
+    "href": "additional/index.html#replay-de-la-présentation-du-16-juin",
     "title": "Ressources additionnelles",
-    "section": "Replay de la présentation du 16 juin",
-    "text": "Replay de la présentation du 16 juin\nRetour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
-  },
-  {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Galerie d’exemples",
     "section": "",
-    "text": "Une galerie d’exemples de projets faits par les participants de cette édition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExemple de projet\n\n\n\nPython\n\n\nStreamlit\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "subjects/subject4.html",
-    "href": "subjects/subject4.html",
-    "title": "Mon Yuka avec Python",
-    "section": "",
-    "text": "Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka"
+    "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
   },
   {
     "objectID": "subjects/subject1.html",
@@ -280,18 +294,11 @@
     "text": "Une initiation à la dataviz avec observable sur séries longues"
   },
   {
-    "objectID": "subjects/subject2.html",
-    "href": "subjects/subject2.html",
-    "title": "Explorer la géographie des cultures agricoles françaises",
+    "objectID": "subjects/subject3.html",
+    "href": "subjects/subject3.html",
+    "title": "Explorer les habitudes alimentaires de nos compatriotes",
     "section": "",
-    "text": "Une exploration de la géographie des cultures agricoles"
-  },
-  {
-    "objectID": "subjects/subject5.html",
-    "href": "subjects/subject5.html",
-    "title": "Analyse textuelle des commentaires clients de restaurants",
-    "section": "",
-    "text": "Analyse de sentiments dans des commentaires clients à partir de données scrapées sur Trustpilot"
+    "text": "Une initiation à l’analyse exploratoire de données, au clustering et au machine learning"
   },
   {
     "objectID": "subjects/subject6.html",
@@ -299,12 +306,5 @@
     "title": "A la recherche de l’alimentation perdue",
     "section": "",
     "text": "Traitement du langage, rechercher toutes les références à des aliments dans l’oeuvre de Proust"
-  },
-  {
-    "objectID": "subjects/subject3.html",
-    "href": "subjects/subject3.html",
-    "title": "Explorer les habitudes alimentaires de nos compatriotes",
-    "section": "",
-    "text": "Une initiation à l’analyse exploratoire de données, au clustering et au machine learning"
   }
 ]
