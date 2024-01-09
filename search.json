@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "additional.html",
+    "href": "additional.html",
+    "title": "Ressources additionnelles",
+    "section": "",
+    "text": "Contenu supplémentaire utile pendant l’événement"
+  },
+  {
+    "objectID": "additional.html#replay-de-la-présentation-du-16-juin",
+    "href": "additional.html#replay-de-la-présentation-du-16-juin",
+    "title": "Ressources additionnelles",
+    "section": "Replay de la présentation du 16 juin",
+    "text": "Replay de la présentation du 16 juin\nRetour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
+  },
+  {
+    "objectID": "subjects/subject4.html",
+    "href": "subjects/subject4.html",
+    "title": "Mon Yuka avec Python",
+    "section": "",
+    "text": "Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka"
+  },
+  {
+    "objectID": "subjects/subject5.html",
+    "href": "subjects/subject5.html",
+    "title": "Analyse textuelle des commentaires clients de restaurants",
+    "section": "",
+    "text": "Analyse de sentiments dans des commentaires clients à partir de données scrapées sur Trustpilot"
+  },
+  {
+    "objectID": "subjects/subject3.html",
+    "href": "subjects/subject3.html",
+    "title": "Explorer les habitudes alimentaires de nos compatriotes",
+    "section": "",
+    "text": "Une initiation à l’analyse exploratoire de données, au clustering et au machine learning"
+  },
+  {
     "objectID": "slides/light.html#un-environnement-idéal-pour-la-formation",
     "href": "slides/light.html#un-environnement-idéal-pour-la-formation",
     "title": "Présentation du SSP Cloud",
@@ -203,6 +238,20 @@
     "text": "Questions\n\n\nFunathon 2023"
   },
   {
+    "objectID": "additional/index.html",
+    "href": "additional/index.html",
+    "title": "Ressources additionnelles",
+    "section": "",
+    "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
+  },
+  {
+    "objectID": "additional/index.html#replay-de-la-présentation-du-16-juin",
+    "href": "additional/index.html#replay-de-la-présentation-du-16-juin",
+    "title": "Ressources additionnelles",
+    "section": "",
+    "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -224,53 +273,11 @@
     "text": "Cette page recense les ressources préparées par les organisateurs sur les 6 sujets proposés lors de l’événement 2023.\nPour découvrir les projets de certains participants, c’est sur la galerie\n\n\n\n  \n     \n      \n          \n            \n          \n          \n            150 ans d'agriculture en France\n            \n              \n              \n                \n                \n              \n            \n            \n                \n                  Gitlab \n                \n                \n                  Github \n                \n                \n                  Website \n                \n            \n          \n        \n      \n     \n  \n  \n     \n      \n          \n            \n          \n          \n            Explorer la géographie des cultures agricoles françaises\n            \n              \n              \n                \n                \n              \n            \n            \n                \n                  Gitlab \n                \n                \n                  Github \n                \n                \n                  Website \n                \n            \n          \n        \n      \n     \n  \n  \n     \n      \n          \n            \n          \n          \n            Explorer les habitudes alimentaires de nos compatriotes\n            \n              \n              \n                \n                \n              \n            \n            \n                \n                  Gitlab \n                \n                \n                  Github \n                \n                \n                  Website \n                \n            \n          \n        \n      \n     \n  \n  \n     \n      \n          \n            \n          \n          \n            Mon Yuka avec Python\n            \n              \n              \n                \n                \n              \n            \n            \n                \n                  Gitlab \n                \n                \n                  Github \n                \n                \n                  Website \n                \n            \n          \n        \n      \n     \n  \n  \n     \n      \n          \n            \n          \n          \n            Analyse textuelle des commentaires clients de restaurants\n            \n              \n              \n                \n                \n              \n            \n            \n                \n                  Gitlab \n                \n                \n                  Github \n                \n                \n                  Website \n                \n            \n          \n        \n      \n     \n  \n  \n     \n      \n          \n            \n          \n          \n            A la recherche de l'alimentation perdue\n            \n              \n              \n                \n                \n              \n            \n            \n                \n                  Gitlab \n                \n                \n                  Github \n                \n                \n                  Website \n                \n            \n          \n        \n      \n     \n  \n\n\nNo matching items\n\n\nL’ensemble des ressources de cet événement est disponible via le Github InseeFrLab"
   },
   {
-    "objectID": "subjects/subject1.html",
-    "href": "subjects/subject1.html",
-    "title": "150 ans d’agriculture en France",
-    "section": "",
-    "text": "Une initiation à la dataviz avec observable sur séries longues"
-  },
-  {
-    "objectID": "subjects/subject3.html",
-    "href": "subjects/subject3.html",
-    "title": "Explorer les habitudes alimentaires de nos compatriotes",
-    "section": "",
-    "text": "Une initiation à l’analyse exploratoire de données, au clustering et au machine learning"
-  },
-  {
-    "objectID": "subjects/subject4.html",
-    "href": "subjects/subject4.html",
-    "title": "Mon Yuka avec Python",
-    "section": "",
-    "text": "Un parcours guidé pour créer une application de lecture de code barre avec Python à la manière de Yuka"
-  },
-  {
-    "objectID": "additional/index.html",
-    "href": "additional/index.html",
-    "title": "Ressources additionnelles",
-    "section": "",
-    "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
-  },
-  {
-    "objectID": "additional/index.html#replay-de-la-présentation-du-16-juin",
-    "href": "additional/index.html#replay-de-la-présentation-du-16-juin",
-    "title": "Ressources additionnelles",
-    "section": "",
-    "text": "Retour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
-  },
-  {
     "objectID": "gallery/subject4.html",
     "href": "gallery/subject4.html",
     "title": "Exemple de projet",
     "section": "",
     "text": "De vrais exemples faits par les participants à venir"
-  },
-  {
-    "objectID": "subjects/subject5.html",
-    "href": "subjects/subject5.html",
-    "title": "Analyse textuelle des commentaires clients de restaurants",
-    "section": "",
-    "text": "Analyse de sentiments dans des commentaires clients à partir de données scrapées sur Trustpilot"
   },
   {
     "objectID": "subjects/subject6.html",
@@ -287,24 +294,17 @@
     "text": "Une exploration de la géographie des cultures agricoles"
   },
   {
+    "objectID": "subjects/subject1.html",
+    "href": "subjects/subject1.html",
+    "title": "150 ans d’agriculture en France",
+    "section": "",
+    "text": "Une initiation à la dataviz avec observable sur séries longues"
+  },
+  {
     "objectID": "gallery.html",
     "href": "gallery.html",
     "title": "Galerie d’exemples",
     "section": "",
     "text": "Une galerie d’exemples de projets faits par les participants de cette édition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExemple de projet\n\n\n\nPython\n\n\nStreamlit\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "additional.html",
-    "href": "additional.html",
-    "title": "Ressources additionnelles",
-    "section": "",
-    "text": "Contenu supplémentaire utile pendant l’événement"
-  },
-  {
-    "objectID": "additional.html#replay-de-la-présentation-du-16-juin",
-    "href": "additional.html#replay-de-la-présentation-du-16-juin",
-    "title": "Ressources additionnelles",
-    "section": "Replay de la présentation du 16 juin",
-    "text": "Replay de la présentation du 16 juin\nRetour sur la présentation des sujets, du SSPCloud et de Git.\nLes slides associées à cette présentation sont ici"
   }
 ]
