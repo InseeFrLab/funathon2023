@@ -9,7 +9,7 @@ Contenu supplémentaire utile pendant l'événement
 Retour sur la présentation des sujets,
 du `SSPCloud` et de `Git`. 
 
-Les slides associées à cette présentation sont [ici](slides/index.html)
+Les slides associées à cette présentation sont [ici](https://inseefrlab.github.io/funathon2023-slides/light.html#/title-slide)
 
 {{< video https://minio.lab.sspcloud.fr/projet-funathon/2023/diffusion/video1887958271.mp4 
     title='Replay 16 juin' >}}
